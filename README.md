@@ -1,4 +1,4 @@
 # hello-world
 My first repository on GitHub.
 
-I love :coffee:, :beer: and beers:
+I love :coffee:, :beer: and :beers:
